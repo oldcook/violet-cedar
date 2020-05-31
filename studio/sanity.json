@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "__stackbit_sanity_project_name__"
+    "name": "violet-cedar-370fc"
   },
   "api": {
-    "projectId": "__stackbit_sanity_project_id__",
+    "projectId": "7q6sxuru",
     "dataset": "production"
   },
   "plugins": [
